@@ -16,7 +16,20 @@ if the prediction is,
 3. We have also deployed the model on IBM Watson Studio
 
 # Output
+Home Page
+"C:\Users\aruna\OneDrive\Desktop\Home Page.png"
 
+Intro Page
+"C:\Users\aruna\OneDrive\Desktop\Intro.png"
+
+Launch Page
+"C:\Users\aruna\OneDrive\Desktop\launch.png"
+
+Result for hand gesture 4
+"C:\Users\aruna\OneDrive\Desktop\output1.png"
+
+Result for hand gesture 5
+"C:\Users\aruna\OneDrive\Desktop\output2.png"
 
 # Dataset 
 https://drive.google.com/drive/folders/1mbkYtG2zzFr5ATJxr_B8Hdtm3rl6PCg8?usp=sharing
