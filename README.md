@@ -17,19 +17,19 @@ if the prediction is,
 
 # Output
 Home Page
-"C:\Users\aruna\OneDrive\Desktop\Home Page.png"
+![Home Page](https://user-images.githubusercontent.com/98869876/171177929-cb05a2d1-e9c4-4223-ac0c-bc651275ee9e.png)
 
 Intro Page
-"C:\Users\aruna\OneDrive\Desktop\Intro.png"
+![Intro](https://user-images.githubusercontent.com/98869876/171177971-a4e86c18-dffe-4ee9-9f1d-b6628ae72b7e.png)
 
 Launch Page
-"C:\Users\aruna\OneDrive\Desktop\launch.png"
+![launch](https://user-images.githubusercontent.com/98869876/171178001-dd60dbac-cc94-4b7e-bf91-924ae4067043.png)
 
 Result for hand gesture 4
-"C:\Users\aruna\OneDrive\Desktop\output1.png"
+![output1](https://user-images.githubusercontent.com/98869876/171178106-99c01ad2-c9b5-4fc9-89b3-93d6e5e8dc7d.png)
 
 Result for hand gesture 5
-"C:\Users\aruna\OneDrive\Desktop\output2.png"
+![output2](https://user-images.githubusercontent.com/98869876/171178124-ac10adff-8d70-46ff-b6d4-45f4ba041414.png)
 
 # Dataset 
 https://drive.google.com/drive/folders/1mbkYtG2zzFr5ATJxr_B8Hdtm3rl6PCg8?usp=sharing
